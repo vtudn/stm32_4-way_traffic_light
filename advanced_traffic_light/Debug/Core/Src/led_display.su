@@ -1,0 +1,5 @@
+led_display.c:53:6:UpdateBuffer_7SEG_LEDS	16	static
+led_display.c:59:6:ClearPrevious_7SEG_LEDS	16	static
+led_display.c:64:6:Display_7SEG_DATA	24	static
+led_display.c:75:6:SetCurrent_7SEG_LEDS	16	static
+led_display.c:80:6:Driver_7SEG_LEDS	8	static

@@ -1,0 +1,8 @@
+input_processing.c:42:9:red_updating	4	static
+input_processing.c:45:9:yel_updating	4	static
+input_processing.c:48:9:gre_updating	4	static
+input_processing.c:51:9:mode1_sw_updating	4	static
+input_processing.c:55:6:fsm_for_input_processing_1	8	static
+input_processing.c:111:6:fsm_for_input_processing_2	8	static
+input_processing.c:150:6:fsm_for_input_processing_3	8	static
+input_processing.c:189:6:fsm_for_input_processing_4	8	static
