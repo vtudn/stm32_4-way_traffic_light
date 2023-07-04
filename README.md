@@ -2,7 +2,7 @@
 
 **SCENARIO**: Implementation of an embedded 4-way traffic light system with some specific functionalities, using the STM32F103C6 microcontroller. This work aims to practice some concepts such as embedded C programming, serial communication (SPI/I2C/UART), timer interrupt, co-operative scheduler, buttons/switches, ... Due to the lab's restraints, this project is only run for simulation.
 
-**SOFTWARES**: STM32CubeIDE and Proteus.
+**SOFTWARE**: STM32CubeIDE and Proteus.
 
 **FUNCTIONALITIES**:
 
